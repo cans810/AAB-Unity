@@ -1,0 +1,7 @@
+player objesini createnewcharacter ekranında oluşturmayı, veya editlemenin nasıl yapıldığını bul
+bunu Player isimli bir script oluşturarak yapmayı deneyebilirsin, burda tüm statler,attributelar vs.vs. olabilir
+aynı mantıkla battle sırası olacakları Battle isimli bir script oluşturup düzenleyebilirsin, (turn,dead vs.vs.)
+createnewcharacter ekranında statleri gerçek yap // yapıldı
+
+
+battle scene 'e bir tane enemy ekle ve ona vurmayı ekle
